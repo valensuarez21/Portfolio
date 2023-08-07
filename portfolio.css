@@ -1,0 +1,84 @@
+*{
+    background-image: url(imagen.jpg);
+    color:bisque;
+}
+
+h1 {
+    font-size: 70px;
+    font-style: italic;
+    font-family: Calibri; 
+    text-shadow: 10px;
+    text-decoration:solid;
+    text-align: center;
+    }
+
+.perfil {
+    border-radius: 20px;
+    float: left;
+    width: 200px;
+    margin-bottom: 20px;
+    transform-style: flat;
+}
+
+.button_container{
+    color:rgb(114, 70, 15);
+    border-radius: 5px;
+    cursor: pointer;
+    font-style: oblique;
+    margin-bottom: auto;
+}
+
+#presentacion {
+    text-align: center;
+    font-size: 20px;
+    font-style: oblique;
+    color:lightgray;
+    margin: 30px; 
+    padding: 30px;
+}
+
+body {
+    color:beige;
+    font-family: Calibri;
+    text-align: justify;
+}
+
+#exp-pro {
+    float:left 50px;
+    font-size: 40px;
+    color:cornsilk;
+    text-align: center;
+    }
+
+.contenido-exp {
+    font-family: Arial;
+    text-align: center;
+}
+
+.lista {
+        list-style-type: circle;
+        font-size: 20px;
+        text-align: center;
+    }
+
+#ed {
+    font-size: 40px;
+    color:cornsilk;
+    text-align: center;
+    font-family: Arial;
+    }
+.hyc {
+    float:left 50px;
+    font-size: 40px;
+    color:cornsilk;
+    text-align: center;
+    }
+
+ul {
+    font-family: Arial;
+}
+
+.contenido-ed{
+    text-align: center;
+    font-family: Arial;
+}
